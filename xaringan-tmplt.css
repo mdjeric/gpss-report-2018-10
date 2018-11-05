@@ -1,0 +1,30 @@
+.title-slide {
+  background-image: url(siu-gpsc-rgb209-wht.png);
+  background-position: 15px -100px; 
+  background-size: 600px;
+}
+
+.blank{
+  border-top: 0 solid #FAFAFA;
+  padding: 0;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 3em;
+  font-size: 80%;
+  left:50%;
+  transform:translate(-50%);
+  /* margin-right: auto;
+  margin-left: auto;*/
+  text-align: center;
+}
+
+.pull-left-2 {
+  float: left;
+  width: 60%;
+}
+.pull-right-2 {
+  float: right;
+  width: 34%;
+}
